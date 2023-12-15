@@ -1,2 +1,1 @@
-# LRBF
-Sequential Localized Function Approximation Using Radial Basis Functions
+# Sequential Localized Function Approximation Using Radial Basis Functions
