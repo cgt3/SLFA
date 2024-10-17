@@ -1,1 +1,1 @@
-# Sequential Localized Function Approximation Using Radial Basis Functions
+# SLFA: Sequential Localized Function Approximation
